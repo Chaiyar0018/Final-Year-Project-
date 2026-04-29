@@ -17,38 +17,38 @@ The methodology includes preprocessing email data, extracting features using tec
 ---
 
 ## 🗒️3. Features
-**Hybrid Model:** Combines optimization (POA) + deep learning (CNN/RNN).
-**Advanced Feature Extraction:** Uses BERT and LSA for text representation.
-**Optimized Feature Selection:** POA selects the most relevant features.
-**High Accuracy:** Achieves ~97.5% accuracy with strong F1-score (~99%).
-**Data Preprocessing:** Includes tokenization, stopword removal, normalization.
-**Imbalance Handling:** Uses techniques like SMOTE/TOMEK.
-**Adversarial Robustness:** Resistant to spam manipulation techniques.
-**Real-time Applicability:** Can be deployed in email systems or filters.
+- **Hybrid Model:** Combines optimization (POA) + deep learning (CNN/RNN).
+- **Advanced Feature Extraction:** Uses BERT and LSA for text representation.
+- **Optimized Feature Selection:** POA selects the most relevant features.
+- **High Accuracy:** Achieves ~97.5% accuracy with strong F1-score (~99%).
+- **Data Preprocessing:** Includes tokenization, stopword removal, normalization.
+- **Imbalance Handling:** Uses techniques like SMOTE/TOMEK.
+- **Adversarial Robustness:** Resistant to spam manipulation techniques.
+- **Real-time Applicability:** Can be deployed in email systems or filters.
 
 ---
 
 ## 💡4. Technologies Used
 **Programming & Tools:** Python (assumed for ML/DL implementation)
-** Machine Learning Algorithms:**
+**Machine Learning Algorithms:**
 - Naive Bayes
 - SVM
 - Random Forest
 - GBoost
 
-** Deep Learning Models:**
+**Deep Learning Models:**
 - CNN (Convolutional Neural Network)
 - RNN / LSTM
-** Feature Extraction Techniques:**
+**Feature Extraction Techniques:**
 - BERT
 - LSA
 - TF-IDF
 **Optimization Algorithm:**
 - Puma Optimization Algorithm (POA)
-**- Datasets:**
+**Datasets:**
 - Enron Spam Dataset
 - Spam Assassin / PhishTank
-- **Evaluation Metrics:**
+**Evaluation Metrics:**
 - Accuracy
 - Precision
 - Recall
