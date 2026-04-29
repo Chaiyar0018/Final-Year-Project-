@@ -28,32 +28,32 @@ The methodology includes preprocessing email data, extracting features using tec
 
 ---
 
-## 💡4. Technologies Used
-**Programming & Tools:** Python (assumed for ML/DL implementation)
+## 🛠️4. Technologies Used
+**1).Programming & Tools:** Python (assumed for ML/DL implementation)
 
-**Machine Learning Algorithms:**
+**2).Machine Learning Algorithms:**
 - Naive Bayes
 - SVM
 - Random Forest
 - GBoost
 
-**Deep Learning Models:**
+**3).Deep Learning Models:**
 - CNN (Convolutional Neural Network)
 - RNN / LSTM
   
-**Feature Extraction Techniques:**
+**4).Feature Extraction Techniques:**
 - BERT
 - LSA
 - TF-IDF
   
-**Optimization Algorithm:**
+**5).Optimization Algorithm:**
 - Puma Optimization Algorithm (POA)
   
-**Datasets:**
+**6).Datasets:**
 - Enron Spam Dataset
 - Spam Assassin / PhishTank
   
-**Evaluation Metrics:**
+**7).Evaluation Metrics:**
 - Accuracy
 - Precision
 - Recall
