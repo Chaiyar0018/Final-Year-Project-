@@ -39,10 +39,12 @@ The methodology includes preprocessing email data, extracting features using tec
 **Deep Learning Models:**
 - CNN (Convolutional Neural Network)
 - RNN / LSTM
+- 
 **Feature Extraction Techniques:**
 - BERT
 - LSA
 - TF-IDF
+- 
 **Optimization Algorithm:**
 - Puma Optimization Algorithm (POA)
 **Datasets:**
