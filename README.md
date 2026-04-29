@@ -30,19 +30,19 @@ The methodology includes preprocessing email data, extracting features using tec
 
 ## 💡4. Technologies Used
 **Programming & Tools:** Python (assumed for ML/DL implementation)
-**-Machine Learning Algorithms:**
--Naive Bayes
--SVM
--Random Forest
--GBoost
+**- Machine Learning Algorithms:**
+- Naive Bayes
+- SVM
+- Random Forest
+- GBoost
 
-**-Deep Learning Models:**
--CNN (Convolutional Neural Network)
--RNN / LSTM
-**-Feature Extraction Techniques:**
--BERT
--LSA
--TF-IDF
+**- Deep Learning Models:**
+- CNN (Convolutional Neural Network)
+- RNN / LSTM
+**- Feature Extraction Techniques:**
+- BERT
+- LSA
+- TF-IDF
 **-Optimization Algorithm:**
 -Puma Optimization Algorithm (POA)
 **-Datasets:**
