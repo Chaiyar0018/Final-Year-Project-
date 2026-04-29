@@ -53,8 +53,7 @@ The methodology includes preprocessing email data, extracting features using tec
 - Enron Spam Dataset
 - Spam Assassin / PhishTank
   
-**7).Evaluation Metrics:**
-- Accuracy
+**7).Evaluation Metrics:** - Accuracy
 - Precision
 - Recall
 - F1 Score
